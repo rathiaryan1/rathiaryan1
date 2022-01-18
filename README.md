@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rathiaryan1
-- 👀 I’m interested in Learning New Skills and looking forward to apply them. 
-- 🌱 I’m currently learning Data Structures And Alogrithms In Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Structures And Alogrithms In Java.
+- - 👀 I’m interested in Learning New Skills and looking forward to apply them. 
 - 📫 How to reach me via Email - Aryanrathi1979@gmail.com
                           Contact No  - 6397458788 
 
